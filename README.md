@@ -2,11 +2,13 @@
 
 Download the ytpldl.py python3 script from here. Install pytube3 and requests using pip command.
 
-pip install pytube3
-pip install resquests
+    pip install pytube3<br>
+    pip install resquests<br>
+
+
 After installing the modules run the script using PyCharm or Shell
 
-Shell Command: py ytpldl.py
+Shell Command: <br>    py ytpldl.py
 
 The default download location is in "C:\Users\Public\Downloads" folder(change can be done by modifying the script).
 
