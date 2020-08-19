@@ -1,4 +1,5 @@
 # Yotube-playlist-downloader
+A full python based script to download playlist from youtube.
 
 Download the ytpldl.py python3 script from here. Install pytube3 and requests using pip command.
 
